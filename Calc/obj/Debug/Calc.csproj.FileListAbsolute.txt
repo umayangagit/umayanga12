@@ -1,0 +1,7 @@
+C:\Users\ASUS1\OneDrive\Desktop\umay12\Calc\Calc\bin\Debug\Calc.exe.config
+C:\Users\ASUS1\OneDrive\Desktop\umay12\Calc\Calc\obj\Debug\Calc.Properties.Resources.resources
+C:\Users\ASUS1\OneDrive\Desktop\umay12\Calc\Calc\obj\Debug\Calc.csproj.GenerateResource.Cache
+C:\Users\ASUS1\OneDrive\Desktop\umay12\Calc\Calc\bin\Debug\Calc.exe
+C:\Users\ASUS1\OneDrive\Desktop\umay12\Calc\Calc\bin\Debug\Calc.pdb
+C:\Users\ASUS1\OneDrive\Desktop\umay12\Calc\Calc\obj\Debug\Calc.exe
+C:\Users\ASUS1\OneDrive\Desktop\umay12\Calc\Calc\obj\Debug\Calc.pdb
