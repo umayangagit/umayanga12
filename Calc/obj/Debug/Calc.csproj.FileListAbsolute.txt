@@ -5,3 +5,4 @@ C:\Users\ASUS1\OneDrive\Desktop\umay12\Calc\Calc\bin\Debug\Calc.exe
 C:\Users\ASUS1\OneDrive\Desktop\umay12\Calc\Calc\bin\Debug\Calc.pdb
 C:\Users\ASUS1\OneDrive\Desktop\umay12\Calc\Calc\obj\Debug\Calc.exe
 C:\Users\ASUS1\OneDrive\Desktop\umay12\Calc\Calc\obj\Debug\Calc.pdb
+C:\Users\ASUS1\OneDrive\Desktop\umay12\Calc\Calc\obj\Debug\Calc.Form1.resources
