@@ -21,5 +21,11 @@ namespace Calc
         {
             MessageBox.Show(textBox1.Text + textBox2.Text);
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            textBox1.Clear();
+            textBox2.Clear();
+        }
     }
 }
